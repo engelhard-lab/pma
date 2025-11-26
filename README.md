@@ -5,7 +5,7 @@ This repository contains the code used to train and evaluate the Duke-PMA develo
 ## Installation
 
 ```bash
-git clone https://github.com/Elliot-D-Hill/abcd.git
+git clone https://github.com/engelhard-lab/pma.git
 ```
 
 Within the project directory, create and activate a virtual environment using the environment.yml file:
